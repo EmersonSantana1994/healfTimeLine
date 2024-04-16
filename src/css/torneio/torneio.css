@@ -1,0 +1,84 @@
+.label-data {
+    padding-left: 75px;
+
+}
+
+.botao-deletar {
+    margin-left: 50px;
+
+}
+
+.label-data-label {
+    position: absolute;
+    padding-left: 28px;
+
+}
+
+.label-quanti-mul {
+    width: 100% !important;
+    float: left;
+
+}
+
+.deletar-jogadorr{
+    position: absolute;
+    margin-left: 292px;
+    margin-top: -200px;
+}
+
+.label-quanti-hom {
+    width: 100% !important;
+    float: left;
+
+}
+
+.label-media-idad {
+    width: 100% !important;
+    float: left;
+
+}
+
+.lab-quant-home {
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 25px;
+    width: 56px;
+}
+
+.lab-quant-mul {
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 45px;
+    width: 56px;
+}
+
+.lab-media-idade {
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 65px;
+    width: 56px;
+}
+
+
+.espaco {
+    width: 100% !important;
+}
+
+.placar {
+    position: absolute;
+    padding-left: 4px;
+}
+
+
+.ladoC {
+    position: absolute;
+    padding-left: 4px;
+    margin-top: -445px;
+    margin-left: 827px;
+}
+
+
+
+
+
+

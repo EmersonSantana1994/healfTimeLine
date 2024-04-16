@@ -1,0 +1,112 @@
+
+
+.label-quanti-mul {
+    width: 100% !important;
+    float: left;
+
+}
+
+.deletar-jogadorr{
+    position: absolute;
+    margin-left: 345px;
+    margin-top: -200px;
+}
+
+.campeao{
+    position: absolute;
+    margin-left: 345px;
+    margin-top: -100px;
+}
+
+.botao-importar-foto{
+    margin-left: -2em!important;
+    height: 2.325em!important;
+    width: 2.325em!important;
+    border-radius: 6.25em!important;
+    background-color: #36D896!important;
+    box-shadow: none!important;
+    border: 0em!important;
+}
+
+.icone-usuario-perfil{
+    width: 2.5em !important;
+    height: 2.5em !important;
+    border-radius: 100% !important;
+}
+
+.icone-perfil{
+    width: 12.5em !important;
+    height: 11.5em !important;
+}
+
+.label-quanti-hom {
+    width: 100% !important;
+    float: left;
+
+}
+
+.label-media-idad {
+    width: 100% !important;
+    float: left;
+
+}
+
+.lab-quant-home {
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 25px;
+    width: 56px;
+}
+
+.lab-quant-mul {
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 45px;
+    width: 56px;
+}
+
+.lab-media-idade {
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 65px;
+    width: 56px;
+}
+
+
+.espaco {
+    width: 100% !important;
+}
+
+
+
+.email{
+    margin-left: 571px;
+    margin-top: 168px;
+}
+
+.senha{
+    margin-left: 571px;
+}
+
+.cadastrar{
+    margin-left: 571px;
+    margin-top: 14px;
+}
+
+.deletar{
+    margin-left: 41px;
+    margin-top: 14px;
+}
+
+.limpar{
+    margin-left: 995px;
+    margin-top: 14px;
+}
+
+.alterar{
+    margin-left: 45px;
+    margin-top: 14px;
+}
+
+
+

@@ -1,0 +1,30 @@
+.label-artilheiro {
+    height: 28px;
+    font-size: 26px;
+    border-inline-color: revert;
+}
+
+.label-quantgol {
+    height: 28px;
+    font-size: 14px;
+    border-inline-color: revert;
+    margin-left: 27px;
+    position: absolute;
+    margin-top: -56px;
+}
+
+.label-quatidade{
+    height: 28px;
+    font-size: 17px;
+    border-inline-color: revert;
+    position: absolute;
+    margin-left: -247px;
+    margin-top: -50px;
+}
+
+
+.deletar-jogador{
+    position: absolute;
+    margin-left: 844px;
+    margin-top: -21px;
+}
