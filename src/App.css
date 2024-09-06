@@ -1,5 +1,11 @@
 .App {
-  height: 5vh;
+  text-align: center;
+}
+
+.campo-select-icone-ativado{
+  margin-left: -71px;
+  margin-top: -119px;
+  width: 271px;
 }
 
 .App-logo {
@@ -12,6 +18,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+@media only screen and (min-width: 1170px) {
+  .vertical-timeline--two-columns .vertical-timeline-element-content {
+      margin-left: 0;
+      padding: 1.5em;
+      width: 100%;
+  }
+}
+
+
 
 .App-header {
   background-color: #282c34;
